@@ -24,7 +24,7 @@ A simple alignment panel for Google Slides.
 3. Google Chromeで `chrome://extensions/` を開く
 4. 右上の「デベロッパーモード」を有効にする
 5. 「パッケージ化されていない拡張機能を読み込む」を選択
-6. `manifest.json` が含まれるフォルダを指定する
+6.解凍したフォルダ内の「整列くん」フォルダ（manifest.jsonが含まれるフォルダ）を指定する
 7. Googleスライドを開く、またはページを再読み込みする
 
 ※ Chrome Web Storeでは未公開のため、手動でのインストールが必要です。
